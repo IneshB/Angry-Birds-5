@@ -1,2 +1,2 @@
-# Angry-Birds-5
-Birds that are angry.
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
